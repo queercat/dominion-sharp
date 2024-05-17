@@ -1,3 +1,2 @@
-﻿
-using var game = new dominion_sharp.Dominion();
+﻿using var game = new DominionSharp.DominionGame();
 game.Run();
